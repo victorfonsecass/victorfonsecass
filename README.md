@@ -1,6 +1,5 @@
 ### Hi there, I'm Victor Fonseca👋
 
-- 🌱 I’m currently learning Ruby on Rails
 - 💻  Jr. Full-stack Developer
 - 📫 How to reach me: https://www.linkedin.com/in/victorfonsecas
 
